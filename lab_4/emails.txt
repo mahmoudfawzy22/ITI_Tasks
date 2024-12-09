@@ -1,0 +1,5 @@
+To: manager@example.com
+Subject: Daily Report
+Message: Everything is on track
+From: Samy
+
